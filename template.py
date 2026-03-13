@@ -31,6 +31,7 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "setup.py",
+    "reseach/trials.ipynb",
 ]
 
 for filepath in list_of_files:
